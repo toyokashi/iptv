@@ -1,0 +1,81 @@
+{
+    "addProp": "show",
+    "menu": [
+        {
+            "type": "Malayalam",
+            "url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
+        },
+        {
+            "type": "Vip Malayalam",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_malayalam.m3u"
+        },
+        {
+            "type": "Tamil",
+            "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
+        },
+        {
+            "type": "Vip Tamil",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_tamil.m3u"
+        },
+        {
+            "type": "Vip Sports",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_sports.m3u"
+        },
+         {
+            "type": "Vip Others",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/vip_others.m3u"
+        },
+        {
+            "type": "Hindi",
+            "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        },
+        {
+            "type": "Indian",
+            "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
+        },
+        {
+            "type": "Custom",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/tv_details.json"
+        },
+        {
+            "type": "Custom Indian",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/jio_custom.json"
+        },
+        {
+            "type": "Category",
+            "url": "https://iptv-org.github.io/iptv/index.category.m3u"
+        },
+        {
+            "type": "Country",
+            "url": "https://iptv-org.github.io/iptv/index.country.m3u"
+        },
+        {
+            "type": "Language",
+            "url": "https://iptv-org.github.io/iptv/index.language.m3u"
+        },
+        {
+            "type": "Region",
+            "url": "https://iptv-org.github.io/iptv/index.region.m3u"
+        },
+        {
+            "type": "Worldwide",
+            "url": "https://iptv-org.github.io/iptv/regions/int.m3u"
+        },
+        {
+            "type": "All",
+            "url": "https://iptv-org.github.io/iptv/index.m3u"
+        },
+        {
+            "type": "UHD",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/uhd.json"
+        },
+        {
+            "type": "YouTube",
+            "url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
+        },
+        {
+            "type": "Star",
+            "url": "https://raw.githubusercontent.com/prasanthsnk/tv/main/star.m3u"
+        }
+    ] 
+}
