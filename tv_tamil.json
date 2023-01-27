@@ -1,7 +1,6 @@
 {
     "addProp": "show",
     "data": [
-        "https://iptv-org.github.io/iptv/languages/tam.m3u",
-        "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
+        "https://iptv-org.github.io/iptv/languages/tam.m3u"
     ]
 }
