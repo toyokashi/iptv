@@ -1,0 +1,9 @@
+{
+	"customChannels": [{
+			"channelGroup": "Local",
+			"channelImg": "",
+			"channelName": "MKP Tv",
+			"channelUrl": "http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8"
+		}
+	]
+}
