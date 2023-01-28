@@ -14,16 +14,12 @@
             "url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
         },
         {
-            "type": "Youtube",
-            "url": "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u"
+            "type": "News",
+            "url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
         },
         {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
-        },
-        {
-            "type": "News",
-            "url": "https://prasanth-snk.github.io/iptv/youtube.m3u"
         },
         {
             "type": "Indian",
