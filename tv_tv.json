@@ -10,12 +10,12 @@
             "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
         },
         {
-            "type": "News",
-            "url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
+            "type": "Tamil Local",
+            "url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
         },
         {
-            "type": "Custom",
-            "url": "https://prasanth-snk.github.io/iptv/tv_details.json"
+            "type": "News",
+            "url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
         },
         {
             "type": "Hindi",
