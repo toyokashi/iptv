@@ -14,9 +14,6 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local",AUS TAMIL
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local",Amma TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Local",Arunai TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
 
@@ -31,9 +28,6 @@ http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local",Hari TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local",JAYEM TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local",KVM TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
@@ -110,11 +104,8 @@ http://7starcloud.com:1935/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Tharun Movies
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",Sana TV 2
+#EXTINF:-1 tvg-logo="" group-title="Music",Sana TV
 http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",IBC Music
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",SR Musix
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
