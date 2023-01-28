@@ -5,9 +5,6 @@ http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Dan Comedy
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Comedy",IBC Pagadi
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="India",MOON TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
@@ -28,9 +25,6 @@ http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local",GTA Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local",IBC Tamil
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local",Jawahar TV
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
