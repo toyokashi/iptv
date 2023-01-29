@@ -18,10 +18,6 @@
             "url": "https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u"
         },
         {
-            "type": "Custom",
-            "url":"https://prasanth-snk.github.io/iptv/movies.m3u"
-        },
-        {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
         },
