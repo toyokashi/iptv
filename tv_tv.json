@@ -6,6 +6,10 @@
             "url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
         },
         {
+            "type": "News Malayalam",
+            "url": "https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u"
+        },
+        {
             "type": "Tamil",
             "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
         },
@@ -14,8 +18,8 @@
             "url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
         },
         {
-            "type": "News",
-            "url": "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
+            "type": "News Tamil",
+            "url": "https://prasanth-snk.github.io/youtube_m3u/tamil.m3u"
         },
         {
             "type": "Hindi",
@@ -24,6 +28,10 @@
         {
             "type": "Indian",
             "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
+        },
+        {
+            "type": "Kids",
+            "url": "https://prasanth-snk.github.io/youtube_m3u/kids.m3u"
         },
         {
             "type": "Auto",
