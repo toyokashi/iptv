@@ -8,7 +8,7 @@ rtmp://192.168.10.7/live/mkpmovies
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Dan Comedy
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India",MOON TV
+#EXTINF:-1 tvg-logo="" group-title="Local",MOON TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local",7Star TV
