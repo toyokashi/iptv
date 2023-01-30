@@ -2,6 +2,7 @@
     "addProp": "hide",
     "data": [
         "https://iptv-org.github.io/iptv/languages/tam.m3u",
-        "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
+        "https://prasanth-snk.github.io/iptv/tamilLocal.m3u",
+        "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
     ]
 }
