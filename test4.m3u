@@ -141,7 +141,7 @@ https://stream.sscloud7.com/hls/djeyam.m3u8
 http://nextgeninfotech.ddns.net:8080/moon/moon.m3u8
 #EXTINF:-1,tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FasokaTv.jpeg?alt=media&token=e5cf545c-c2e2-4f0a-9bfb-a7fd52e572c4"group-title="TLL LOCAL HD", ASHOKA TV 
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" " group-title="TLL LOCAL HD", MONTAMIL HD
+#EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="TLL LOCAL HD", MONTAMIL HD
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4qnnLF/ANBU-TV.png" group-title="TLL LOCAL HD", ANBU TV 
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
@@ -161,13 +161,13 @@ http://131.153.22.8:1935/nilatv/nilalive/chunklist_w848564546.m3u8
 http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1597733672_tamilantv.png" group-title="TLL LOCAL HD", Tamilan TV
 http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrPlusTv.jpeg?alt=media&token=48235ab5-ad94-4665-8902-d8f571eecd6d" " group-title="TLL LOCAL HD", R Plus TV
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrPlusTv.jpeg?alt=media&token=48235ab5-ad94-4665-8902-d8f571eecd6d" group-title="TLL LOCAL HD", R Plus TV
 https://rasi.iptelevision.in/rpuls.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthenralTv.jpeg?alt=media&token=e129cba4-23a5-4cb8-9488-2378a7cc135b" " group-title="TLL LOCAL HD", Thendral TV 
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthenralTv.jpeg?alt=media&token=e129cba4-23a5-4cb8-9488-2378a7cc135b" group-title="TLL LOCAL HD", Thendral TV 
 rtmp://live.singamcloud.in:1935/thenraltv/thenraltv
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FanandhamTv.png?alt=media&token=a64a7ae6-6c06-4209-811c-b9ef8500a8d8" " group-title="TLL LOCAL HD", Anandham TV
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FanandhamTv.png?alt=media&token=a64a7ae6-6c06-4209-811c-b9ef8500a8d8" group-title="TLL LOCAL HD", Anandham TV
 rtmp://live.singamcloud.in:1935/anandhamtv/anandhamtv
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FluckyTV.jpeg?alt=media&token=cdb3ccd1-3381-41eb-901a-5da6a622c240" " group-title="TLL LOCAL HD", Lucky TV
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FluckyTV.jpeg?alt=media&token=cdb3ccd1-3381-41eb-901a-5da6a622c240" group-title="TLL LOCAL HD", Lucky TV
 rtmp://singamcloud.in:1935/luckytv/luckytv
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652845027_arasan.png" group-title="TLL LOCAL HD", Arasan TV
 http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
@@ -315,7 +315,7 @@ http://7starcloud.com:1935/adhavantv/myStream/playlist.m3u8
 http://livematrix.in:80/sangamamtv/sangamamtv.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FssTvTirupur.png?alt=media&token=dc4fcab3-dc91-4bf4-88d0-afdb1f445825" group-title="TLL Tamil LCO",SSTV
 http://68.183.82.116:8080/ssTV/ft86Iv8l.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrjLogo.png?alt=media&token=d60a848f-d60b-47fa-98a4-95f76f15a28e" " group-title="TLL Tamil LCO", RJ Logo
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrjLogo.png?alt=media&token=d60a848f-d60b-47fa-98a4-95f76f15a28e" group-title="TLL Tamil LCO", RJ Logo
 https://wmoy8ngoy2a7-hls-live.5centscdn.com/rjtamil/livetv/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",KVM
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
@@ -341,7 +341,7 @@ http://indiamatrix.in:80/kchannel/kchannel.m3u8
 https://5c75277727cd1.streamlock.net/livedemo/livedemo/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1669361700_shalini.png" group-title="TLL Tamil LCO", Shalini TV
 http://bmlive.net:8000/Raja/shalinitvtvm/bms.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthalapathyvjTv.jpg?alt=media&token=7c61347b-d5bb-4dd7-ba28-346edfb71011" " group-title="TLL Tamil LCO", Thalapathyvj TV
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthalapathyvjTv.jpg?alt=media&token=7c61347b-d5bb-4dd7-ba28-346edfb71011" group-title="TLL Tamil LCO", Thalapathyvj TV
 http://stream.applemedianetwork.com/hls/thalapathytv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",TAMILMAGAN HD TV
 https://secure.streamplanet.tv/hls/tamilmagantvhd/master.m3u8
@@ -447,13 +447,13 @@ http://198.144.149.82:8080/NOTV/SRIARJUNTV/index.m3u8?token=GTR
 http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/qmCI2Sg4AiONasVOWjdiemrX_dXykpzXvYvjdAHdU9ZdFbQiCnuRa7-iZC8vq_KIQQ=w240-h480-rw" group-title="TLL Tamil LCO", OM Devotional TV
 http://7starcloud.com:1935/omtv/omtv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FroyalHd.png?alt=media&token=6648446d-5844-4fb6-9eae-c9f41a7acc39" " group-title="TLL Tamil LCO", Royal HD
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FroyalHd.png?alt=media&token=6648446d-5844-4fb6-9eae-c9f41a7acc39" group-title="TLL Tamil LCO", Royal HD
 http://bmlive.net:8000/dsrchannel/theniroyal/bms.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdsrTv.png?alt=media&token=f8f05862-4ee0-4eeb-9765-0915702babc7" " group-title="TLL Tamil LCO", DSR TV
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdsrTv.png?alt=media&token=f8f05862-4ee0-4eeb-9765-0915702babc7" group-title="TLL Tamil LCO", DSR TV
 http://bmlive.net:8000/dsrchannel/dino/bms.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FambikaTv.jpeg?alt=media&token=a5e106dd-fe14-4e31-82e3-0012b7087f6f" " group-title="TLL Tamil LCO", Ambika TV
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FambikaTv.jpeg?alt=media&token=a5e106dd-fe14-4e31-82e3-0012b7087f6f" group-title="TLL Tamil LCO", Ambika TV
 http://bmlive.net:8000/karnan/ambika/bms.m3u8
-#EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" " group-title="TLL Tamil LCO", MASS TAMIL HD TV
+#EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" group-title="TLL Tamil LCO", MASS TAMIL HD TV
 http://tv2.massstream.net/Masstv/index.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/VXUE218YyNEKgAiKhS6P1Ai-gYUrx6bDw1nhfWaH7izIM5PUfVb0xvj44J1AkICyeKs=w480-h960-rw" tvg-id="1" group-title="TLL Tamil LCO",ACN TV
 rtmp://stream1.playbox.co.in:1935/babatv/babatv
