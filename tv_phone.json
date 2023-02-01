@@ -26,10 +26,6 @@
             "url": "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
         },
         {
-            "type": "Sports",
-            "url": "https://prasanth-snk.github.io/youtube_m3u/sports.m3u"
-        },
-        {
             "type": "Testing",
             "url": "https://prasanth-snk.github.io/iptv/test.m3u"
         },
