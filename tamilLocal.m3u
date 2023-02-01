@@ -238,3 +238,42 @@ https://5c75277727cd1.streamlock.net/rcntv/rcntv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669957062_aasai.png" group-title="Local", Aasai TV
 http://osaitv.livebox.co.in/aasaihls/live.m3u8
+
+#EXTINF:-1 group-title="Music",MALAR TV UHD 
+http://server1.phoenixcreations.online:1935/live/malartv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",DCN 
+http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",SACHIN MUSIC TV
+https://stream.sscloud7.com/sachinmusic.m3u8
+
+#EXTINF:-1 group-title="Music",LIVESAI TV
+https://live.sscloud7.com/hls/livesaitv.m3u8
+
+#EXTINF:-1 group-title="Local",YOGAA TV
+http://hdserver.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
+
+#EXTINF:-1,group-title="Music",BONUS TV 
+http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,group-title="Music",JR TV
+https://live1.sscloud7.com/jrtv.m3u8
+
+#EXTINF:-1  group-title="Local" , JAYAM TV 
+http://hdserver.singamcloud.in:1935/jayamtvs/jayamtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",SKY TV 
+http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
+
+#EXTINF:-1 group-title="Music",SMCV 
+http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+#EXTINF:-1 group-title="Music",SINGAM TV 
+http://singamcloud.in/singamtv/singamtv/index.m3u8
+
+#EXTINF:-1 group-title="Music",ABHINAYA TV 
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+
+#EXTINF:-1 group-title="Local",SLS TV 
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
