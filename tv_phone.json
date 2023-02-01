@@ -30,6 +30,10 @@
             "url": "https://prasanth-snk.github.io/youtube_m3u/sports.m3u"
         },
         {
+            "type": "Test",
+            "url": "https://prasanth-snk.github.io/youtube_m3u/test.m3u"
+        },
+        {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
         },
