@@ -184,3 +184,20 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 http://7starcloud.com:1935/skilltv/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="7star updated",Tamil Entertainment
 http://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8
+
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png", Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png", Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Malayalam
+rtmp://singamcloud.in:1935/rasinetwork/rasimalayalam
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Telugu
+rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Hindi
+rtmp://singamcloud.in:1935/rasinetwork/rasihindi
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1  group-title="RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Lifestyle
+rtmp://singamcloud.in:1935/rasinetwork/cookings
