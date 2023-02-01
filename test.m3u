@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",AVINASSH IPTV rtmp
+rtmp://bmlive.net:1935/Avinasshmurugan/avinassh
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",AVINASSH IPTV
+http://bmlive.net:8000/Avinassh/avinassh.flv
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Mon Tamil mono
+http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Mon Tamil
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Asosa TV (Tamilnadu) GTR
+http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Asosa TV (Tamilnadu)
+http://bmlive.net:8000/sstar/asosa/bms.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Music",Isaiaruvi TV a004
+http://62.176.93.133:8004/play/a004
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Music",Isaiaruvi TV
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
