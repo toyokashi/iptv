@@ -46,6 +46,10 @@
             "url": "https://prasanth-snk.github.io/iptv/test3.m3u"
         },
         {
+            "type": "Testing4",
+            "url": "https://prasanth-snk.github.io/iptv/test4.m3u"
+        },
+        {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
         },
