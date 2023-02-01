@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Tamil Local",AVINASSH IPTV
-rtmp://bmlive.net:1935/Avinasshmurugan/avinassh
-
 #EXTINF:-1 tvg-logo="" group-title="Tamil Local",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
