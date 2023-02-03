@@ -281,7 +281,7 @@ http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movie",Movie Sphere
+#EXTINF:-1 tvg-logo="" group-title="Movies",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",IBC Pagadi
