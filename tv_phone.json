@@ -26,26 +26,6 @@
             "url": "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
         },
         {
-            "type": "Testing",
-            "url": "https://prasanth-snk.github.io/iptv/test.m3u"
-        },
-        {
-            "type": "Testing1",
-            "url": "https://prasanth-snk.github.io/iptv/test1.m3u"
-        },
-        {
-            "type": "Testing2",
-            "url": "https://prasanth-snk.github.io/iptv/test2.m3u"
-        },
-        {
-            "type": "Testing3",
-            "url": "https://prasanth-snk.github.io/iptv/test3.m3u"
-        },
-        {
-            "type": "Testing4",
-            "url": "https://prasanth-snk.github.io/iptv/test4.m3u"
-        },
-        {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
         },
