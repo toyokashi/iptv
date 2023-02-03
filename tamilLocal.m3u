@@ -164,7 +164,7 @@ http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
 #EXTINF: -1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Ragam-TV.png" group-title="Local", Raagam HD
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
 
-#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602589120_1598779936_sathiyamlogo.png" group-title="Local", Sathiyam TV
+#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602589120_1598779936_sathiyamlogo.png" group-title="News", Sathiyam TV
 http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670026189_rgtv.png" group-title="Local", RG TV
