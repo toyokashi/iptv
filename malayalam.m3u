@@ -7,3 +7,5 @@ http://cdn1.logicwebs.in:1935/malabar/malabar/playlist.m3u8
 https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Asianet Middle East (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0k6/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Undefined",Pulari TV (720p) [Not 24/7]
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
