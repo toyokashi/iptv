@@ -2,4 +2,8 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u
 
 https://gitlab.com/iptvtamil/box/-/raw/master/m3u
 
+https://github.com/Avinassh2061/avinassh
+
+https://github.com/ajimal173/iptv
+
 https://prasanth-snk.github.io/youtube_m3u/youtube.m3u
