@@ -167,34 +167,34 @@ http://account12.livebox.co.in/ntvhls/ntv.m3u8
 #EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602589120_1598779936_sathiyamlogo.png" group-title="News",Sathiyam TV
 http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1670026189_rgtv.png" group-title="Local",RG TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670026189_rgtv.png" group-title="Local",RG TV
 http://new.7starcloud.com:1935/rgtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669958345_RTV.jpg" group-title="Local",R TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669958345_RTV.jpg" group-title="Local",R TV
 http://bmlive.net:8000/robertsagayadoss/rtvtrichy/bms.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669968495_jayan.jpg" group-title="Local",Jeiyan TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669968495_jayan.jpg" group-title="Local",Jeiyan TV
 http://198.144.149.206:8080/NOTV/JEIYANTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg" group-title="Local",Smart TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669967959_smart.jpg" group-title="Local",Smart TV
 http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="Local",Aarthi TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="Local",Aarthi TV
 http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669988791_anandgopi.jpg" group-title="Local",Aanandam TV Gopi
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669988791_anandgopi.jpg" group-title="Local",Aanandam TV Gopi
 http://new.7starcloud.com:1935/anatham/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669977840_aadhavancolor.jpg" group-title="Local",Aadhavan Colours TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669977840_aadhavancolor.jpg" group-title="Local",Aadhavan Colours TV
 http://bmlive.net:8000/amirtharaj/amirtharajlive/bms.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1670252528_IMG-20221205-WA0084.jpg" group-title="Local",KARTHIK TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670252528_IMG-20221205-WA0084.jpg" group-title="Local",KARTHIK TV
 http://bmlive.net:8000/skmedia/karthiktv/bms.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1670298849_IMG-20221206-WA0012.jpg" group-title="Local",VISION TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670298849_IMG-20221206-WA0012.jpg" group-title="Local",VISION TV
 http://bmlive.net:8000/VIJAYARUL/ahcomedy/bms.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669969207_aanandsang.jpg" group-title="Local",Aananda Sangamam TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669969207_aanandsang.jpg" group-title="Local",Aananda Sangamam TV
 http://Anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3PYgU3hIgngL5RN4xy5ReWye32eYDke-2XghhbFF4SJWH4-z41FNvZXD_fhmYhdgsRc=w240-h480-rw" group-title="Local",King TV  
@@ -203,40 +203,40 @@ http://bmlive.net:8000/kingtv/kingtvhd/bms.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bc6x5HeOLaPSyTrocVmSzVx8XrrsTJgXrrLvyN9NTB0Ma2AwV5SpTXFItwmiKw4Kff4W=w240-h480-rw" group-title="Local",SK TV  
 http://hdserver.7starcloud.com:1935/sharvesh/sktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669968335_vinmusic.jpg" group-title="Music",Vinayaga Music
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669968335_vinmusic.jpg" group-title="Music",Vinayaga Music
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669968374_vinhd.jpg" group-title="Local",Vinayaga HD TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669968374_vinhd.jpg" group-title="Local",Vinayaga HD TV
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970414_thalapathi.jpg" group-title="Local",Thalapathy TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669970414_thalapathi.jpg" group-title="Local",Thalapathy TV
 http://stream.applemedianetwork.com/hls/thalapathytv.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg" group-title="Local",Om Sakthi TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669970836_omsakthi.jpg" group-title="Local",Om Sakthi TV
 https://live1.sscloud7.com/hls/omsakthitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669989061_gtv.png" group-title="Local",G TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669989061_gtv.png" group-title="Local",G TV
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669958722_jeyam.jpg" group-title="Local",Jeyam TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669958722_jeyam.jpg" group-title="Local",Jeyam TV
 http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669958890_aadhavan.jpg" group-title="Local",Aadhavan TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669958890_aadhavan.jpg" group-title="Local",Aadhavan TV
 http://test.7starcloud.com:1935/adhavantv/mystream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1670026176_spice.png" group-title="Local",Spice TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670026176_spice.png" group-title="Local",Spice TV
 https://iptelevision.in/hls/spicetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669980047_one.jpg" group-title="Local",No 1 TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669980047_one.jpg" group-title="Local",No 1 TV
 http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669977583_kavin.jpg" group-title="Local",Kavin TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669977583_kavin.jpg" group-title="Local",Kavin TV
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669978447_rcn.jpg" group-title="Local",RCN TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669978447_rcn.jpg" group-title="Local",RCN TV
 https://5c75277727cd1.streamlock.net/rcntv/rcntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669957062_aasai.png" group-title="Local",Aasai TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1669957062_aasai.png" group-title="Local",Aasai TV
 http://osaitv.livebox.co.in/aasaihls/live.m3u8
 
 #EXTINF:-1 group-title="Music",MALAR TV UHD 
