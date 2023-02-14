@@ -18,6 +18,10 @@
             "url": "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
         },
         {
+            "type": "Language",
+            "url": "https://prasanth-snk.github.io/youtube_m3u/index.language.m3u"
+        },
+        {
             "type": "Sports",
             "url": "https://prasanth-snk.github.io/iptv/sports.m3u"
         },
