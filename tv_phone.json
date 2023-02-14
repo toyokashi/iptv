@@ -3,15 +3,7 @@
     "menu": [
         {
             "type": "Malayalam",
-            "url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
-        },
-        {
-            "type": "News Malayalam",
             "url": "https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u"
-        },
-        {
-            "type": "Tamil",
-            "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
         },
         {
             "type": "Tamil Local",
@@ -28,38 +20,6 @@
         {
             "type": "Sports",
             "url": "https://prasanth-snk.github.io/iptv/sports.m3u"
-        },
-        {
-            "type": "Hindi",
-            "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
-        },
-        {
-            "type": "Indian",
-            "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
-        },
-        {
-            "type": "Kids",
-            "url": "https://prasanth-snk.github.io/youtube_m3u/kids.m3u"
-        },
-        {
-            "type": "Category",
-            "url": "https://iptv-org.github.io/iptv/index.category.m3u"
-        },
-        {
-            "type": "Country",
-            "url": "https://iptv-org.github.io/iptv/index.country.m3u"
-        },
-        {
-            "type": "Language",
-            "url": "https://iptv-org.github.io/iptv/index.language.m3u"
-        },
-        {
-            "type": "Region",
-            "url": "https://iptv-org.github.io/iptv/index.region.m3u"
-        },
-        {
-            "type": "All",
-            "url": "https://iptv-org.github.io/iptv/index.m3u"
         },
         {
             "type": "UHD",
