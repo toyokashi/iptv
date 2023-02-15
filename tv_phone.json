@@ -3,6 +3,10 @@
     "menu": [
         {
             "type": "Malayalam",
+            "url": "https://prasanth-snk.github.io/iptv/malayalam.m3u"
+        },
+{
+            "type": "Malayalam news",
             "url": "https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u"
         },
         {
@@ -19,7 +23,7 @@
         },
         {
             "type": "Language",
-            "url": "https://prasanth-snk.github.io/youtube_m3u/index.language.m3u"
+            "url": "https://prasanth-snk.github.io/iptv/index.language.m3u"
         },
         {
             "type": "Sports",
