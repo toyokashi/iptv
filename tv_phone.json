@@ -22,6 +22,10 @@
             "url": "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
         },
         {
+            "type": "Testing",
+            "url": "https://prasanth-snk.github.io/iptv/cloud_tamil.m3u"
+        },
+        {
             "type": "Language",
             "url": "https://prasanth-snk.github.io/iptv/index.language.m3u"
         },
