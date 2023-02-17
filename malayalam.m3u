@@ -11,6 +11,8 @@ https://singamcloud.in/skytv/skytv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Flowers
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",N Vision
+http://live.singamcloud.in/nvision/nvision/index.m3u8
 
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Malayalam",Amrita TV (576p)
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
