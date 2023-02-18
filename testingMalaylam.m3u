@@ -1,0 +1,74 @@
+#EXTM3U
+
+#EXTINF:0, group-title="Malayalam",Kairali We
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:0, group-title="Malayalam",Kairali TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/01.m3u8
+#EXTINF:0, group-title="Malayalam",Kaumudy
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226100/01.m3u8
+#EXTINF:0, group-title="Malayalam",Janam TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226111/01.m3u8
+#EXTINF:0, group-title="Malayalam",Raj Musix (Malayalam)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226257/1.m3u8
+#EXTINF:0, group-title="Malayalam",Raj Music (Malayalam)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226257/index.m3u8
+#EXTINF:0, group-title="Malayalam",Raj News (Malayalam)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226259/1.m3u8
+#EXTINF:0, group-title="Malayalam",DD Malayalam
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:0, group-title="Malayalam",Amrita
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226310/1.m3u8
+#EXTINF:0, group-title="Malayalam",Mathrubhumi News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226314/1.m3u8
+#EXTINF:0, group-title="Malayalam",Kappa TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226319/1.m3u8
+#EXTINF:0, group-title="Malayalam",MBC Tv
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226335/index.m3u8
+#EXTINF:0, group-title="Malayalam",Kairali People TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226359/01.m3u8
+#EXTINF:0, group-title="Malayalam",Media One
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/1.m3u8
+#EXTINF:0, group-title="Malayalam",Jaihind TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226402/01.m3u8
+#EXTINF:0, group-title="Malayalam",Shalom TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226412/01.m3u8
+#EXTINF:0, group-title="Malayalam",Surya Music
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226526/index.m3u8
+#EXTINF:0, group-title="Malayalam",Surya
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226527/index.m3u8
+#EXTINF:0, group-title="Malayalam",Surya Movies
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226533/index.m3u8
+#EXTINF:0, group-title="Malayalam",Flowers TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225838/01.m3u8
+#EXTINF:0, group-title="Malayalam",Safari TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:0, group-title="Malayalam",Kaumudy
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",TCV (Thrissur Cable Vision)
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0, group-title="Malayalam",KCV
+http://cdn.live5.in:1935/live/kcv/index.m3u8
+#EXTINF:0, group-title="Malayalam",Pravasi TV
+http://cdn.live5.in:1935/live/pravasi/playlist.m3u8
+#EXTINF:0, group-title="Malayalam",Channel4U
+http://150.242.21.2/channel4you.m3u8
+#EXTINF:0, group-title="Malayalam",Vismaya TV
+http://150.242.21.2/vismaya.m3u8
+#EXTINF:0, group-title="Malayalam",GoSree TV
+http://150.242.21.2/gosree.m3u8
+#EXTINF:0, group-title="Malayalam",Janam TV
+http://v2aq92ywdpng-hls-live.wmncdn.net/janamtv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",Media Net
+http://150.242.21.2/medianet.m3u8
+#EXTINF:0, group-title="Malayalam",Media Orange
+http://150.242.21.2/mediaorange.m3u8
+#EXTINF:0, group-title="Malayalam",Megnavision TV
+http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+#EXTINF:0, group-title="Malayalam",News 18 Malayalam
+https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_3_av-p.m3u8
+#EXTINF:0, group-title="Malayalam",Ten Digital
+http://150.242.21.2/tendigital.m3u8
+#EXTINF:0, group-title="Malayalam",Unitech TV
+http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:0, group-title="Malayalam",Unitech TV
+http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
