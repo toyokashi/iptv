@@ -1,31 +1,84 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",CTN
-http://hdserver.7starcloud.com:1935//ctn//live//playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Polimer 
-http://hdserver.7starcloud.com:1935//polimer//live//playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",jawahartv
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ACCORD TV
-https://server1.iptelevision.in/hls/actv.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",AJANTHA TV
-https://server1.iptelevision.in/hls/ajithatv.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",QUEEN TV
-http://server1.phoenixcreations.online:1935/queentv/queentv/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",மயூரி 
-http://server1.phoenixcreations.online:1935/mayuritv/mayuritvtenkasi/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",BAMA TV
-http://livematrix.in:80/bamahd/bamahd.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",VAAHINI TV
-https://5c75277727cd1.streamlock.net/livedemo/livedemo/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",NELLAITIMES TV
-http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
+#EXTINF:-1,Gulli avec sous-titres
+http://178.250.208.141/120/play.m3u8
+#EXTINF:-1,France O avec sous-titres
+http://178.250.208.141/121/play.m3u8
+#EXTINF:-1,TF1 Séries Films avec sous-titres
+http://178.250.208.141/122/play.m3u8
+#EXTINF:-1,SRF 1
+http://178.250.208.141/128/play.m3u8
+#EXTINF:-1,Rai 1
+http://178.250.208.141/130/play.m3u8
+#EXTINF:-1,Rai 2
+http://178.250.208.141/131/play.m3u8
+#EXTINF:-1,Rai 3
+http://178.250.208.141/132/play.m3u8
+#EXTINF:-1,Rai News
+http://178.250.208.141/133/play.m3u8
+#EXTINF:-1,SRF 3
+http://178.250.208.141/136/play.m3u8
+#EXTINF:-1,RTL Live
+http://178.250.208.141/152/play.m3u8
+#EXTINF:-1,Rai Yoyo
+http://178.250.208.141/153/play.m3u8
+#EXTINF:-1,Rai Premium
+http://178.250.208.141/154/play.m3u8
+#EXTINF:-1,Rai Storia
+http://178.250.208.141/155/play.m3u8
+#EXTINF:-1,Rai Gulp
+http://178.250.208.141/156/play.m3u8
+#EXTINF:-1,Rai Movie
+http://178.250.208.141/157/play.m3u8
+#EXTINF:-1,Rai Radio 2
+http://178.250.208.141/158/play.m3u8
+#EXTINF:-1,i24NEWS
+http://178.250.208.141/161/play.m3u8
+#EXTINF:-1,BFM Business
+http://178.250.208.141/166/play.m3u8
+#EXTINF:-1,Al Jazeera
+http://178.250.208.141/168/play.m3u8
+#EXTINF:-1,ZDFinfo
+http://178.250.208.141/174/play.m3u8
+#EXTINF:-1,TiJi
+http://178.250.208.141/175/play.m3u8
+#EXTINF:-1,Canal J
+http://178.250.208.141/176/play.m3u8
+#EXTINF:-1,BipTV
+http://178.250.208.141/200/play.m3u8
+#EXTINF:-1,BFM Grand Littoral
+http://178.250.208.141/201/play.m3u8
+#EXTINF:-1,France 3
+http://178.250.208.141/209/play.m3u8
+#EXTINF:-1,France 3 Alpes
+http://178.250.208.141/210/play.m3u8
+#EXTINF:-1,France 3 Alsace
+http://178.250.208.141/211/play.m3u8
+#EXTINF:-1,France 3 Aquitaine
+http://178.250.208.141/212/play.m3u8
+#EXTINF:-1,France 3 Auvergne
+http://178.250.208.141/213/play.m3u8
+#EXTINF:-1,France 3 Bretagne
+http://178.250.208.141/216/play.m3u8
+#EXTINF:-1,France 3 Champagne-Ardenne
+http://178.250.208.141/218/play.m3u8
+#EXTINF:-1,France 3 Côte Azur
+http://178.250.208.141/220/play.m3u8
+#EXTINF:-1,France 3 Languedoc
+http://178.250.208.141/223/play.m3u8
+#EXTINF:-1,France 3 Limousin
+http://178.250.208.141/224/play.m3u8
+#EXTINF:-1,France 3 Lorraine
+http://178.250.208.141/225/play.m3u8
+#EXTINF:-1,France 3 Midi-Pyrénées
+http://178.250.208.141/226/play.m3u8
+#EXTINF:-1,France 3 Nord Pas-de-Calais
+http://178.250.208.141/227/play.m3u8
+#EXTINF:-1,France 3 Picardie
+http://178.250.208.141/230/play.m3u8
+#EXTINF:-1,France 3 Poitou-Charentes
+http://178.250.208.141/231/play.m3u8
+#EXTINF:-1,France 3 Provence-Alpes
+http://178.250.208.141/232/play.m3u8
+#EXTINF:-1,France 3 Rhône-Alpes
+http://178.250.208.141/233/play.m3u8
