@@ -10,12 +10,28 @@
             "url": "https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u"
         },
         {
-            "type": "Tamil",
+            "type": "Tamil IPTV",
+            "url": "https://prasanth-snk.github.io/iptv/tamil_iptv.m3u"
+        },
+        {
+            "type": "Tamil Satellite",
+            "url": "https://prasanth-snk.github.io/iptv/tamil_satellite_tv.m3u"
+        },
+        {
+            "type": "Tamil Local",
             "url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
         },
         {
-            "type": "News Tamil",
+            "type": "Tamil News",
             "url": "https://prasanth-snk.github.io/youtube_m3u/tamil.m3u"
+        },
+        {
+            "type": "News",
+            "url": "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
+        },
+        {
+            "type": "Sports",
+            "url": "https://prasanth-snk.github.io/iptv/sports.m3u"
         },
         {
             "type": "UHD",
