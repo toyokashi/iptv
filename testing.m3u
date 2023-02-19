@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Vinayaga music 
-http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",நமது சங்கமம்
 http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
 
@@ -69,7 +66,7 @@ http://singamcloud.in/singamtv/singamtv/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",கலை இசை
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",M music 
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="",M music 
 https://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அத்விகா

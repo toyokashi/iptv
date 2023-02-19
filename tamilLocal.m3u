@@ -293,6 +293,93 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:-1 tvg-logo="" group-title="Local",Sigaram TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",நமது சங்கமம்
+http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",வேதா டிவி
+http://conference1.livebox.co.in:80/vedhatvhls/live.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ATN media
+http://indiamatrix.in:80/atn/atn.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",பாமா 
+http://livematrix.in:80/bamahd/bamahd.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",தி நெல்லை டைம்ஸ்
+http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",K channel
+http://indiamatrix.in:80/kchannel/kchannel.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Smile 
+http://hdserver.7starcloud.com:1935/smile/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sun star
+http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Mullai 
+http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",தருண் மூவிஸ்
+http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",லீப் விஜய்
+http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",வசந்த்
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",S flix 
+http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",VIP
+http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",லீ
+http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",பவானி சங்கமம்
+http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ஜீ
+http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",தேவதை
+http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அசோகா
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அபிநயா மியூசிக்
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",சிங்கம்
+http://singamcloud.in/singamtv/singamtv/index.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",கலை இசை
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="",M music 
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அத்விகா
+http://bmlive.net:8000/paulveernan/advika/bms.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ஸ்ரீசரவணா
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ரியோ
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",7 hills
+http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",போனஸ்
+http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SLS
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+
 #EXTINF:-1 tvg-id="3TamilTV.in" tvg-logo="https://i.imgur.com/U3SlVLx.png" group-title="Tamil",3 Tamil TV (720p) [Not 24/7]
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Tamil",7S Music (576p) [Not 24/7]
