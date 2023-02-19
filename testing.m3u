@@ -1,34 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",Zee tamil
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Zee tamil
 https://tv.googledrivelinks.com/play.php?c=Zee_Tamil&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",KALAIGNAR TV
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",KALAIGNAR TV
 https://tv.googledrivelinks.com/play.php?c=Kalaignar_TV&q=400&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",COLORS TAMIL
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",COLORS TAMIL
 https://tv.googledrivelinks.com/play.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",MK TV
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",MK TV
 https://tv.googledrivelinks.com/play.php?c=MK_TV&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",VENDHAR TV
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",VENDHAR TV
 https://tv.googledrivelinks.com/play.php?c=Vendhar_TV&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",PEPPERS TV
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",PEPPERS TV
 https://tv.googledrivelinks.com/play.php?c=Peppers_TV&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",RAJ TV
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",RAJ TV
 https://tv.googledrivelinks.com/play.php?c=Raj_TV&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",CAPTAIN TV
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",CAPTAIN TV
 https://tv.googledrivelinks.com/play.php?c=Captain_tv&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",JAYA MOVIES
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",JAYA MOVIES
 https://tv.googledrivelinks.com/play.php?c=J_Movies&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",RAJ DIGITAL PLUS
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",RAJ DIGITAL PLUS
 https://tv.googledrivelinks.com/play.php?c=Raj_Digital_Plus&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title=Local tvg-logo="" tvg-id="",TUNES 6
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",TUNES 6
 https://tv.googledrivelinks.com/play.php?c=Tunes_6&q=800&&e=junk.m3u8
