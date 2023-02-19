@@ -1,29 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ohnson Durairaj:
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Raagam
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ராகம்
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Jawahar
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ஜவஹர்
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",கல்விச்சோலை
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SVBC இந்து பக்தி 
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SVBC இந்து பக்தி 
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Swasthik இந்து பக்தி 
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Swasthik இந்து பக்தி 
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Ibc பக்தி h
 https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Ibc பக்தி h
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ibc சிலுவை 
 ttps://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8 
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ibc சிலுவை 
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",முல்லை
 http://bmlive.net:8000/Raja/rajacbe/bms.m3u8 
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",முல்லை
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",sivan
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
