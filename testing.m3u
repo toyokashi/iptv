@@ -1,22 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Jaya TV 
-http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6696/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",CTN
+http://hdserver.7starcloud.com:1935//ctn//live//playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",KTV tamil 
-http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6693/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Polimer 
+http://hdserver.7starcloud.com:1935//polimer//live//playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",RAJ digital plus 
-http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6701/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",jawahartv
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Star sports select 2 
-http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/2507/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ACCORD TV
+https://server1.iptelevision.in/hls/actv.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sky sports main events
-http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/7337/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",AJANTHA TV
+https://server1.iptelevision.in/hls/ajithatv.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sky sports cricket 
-http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/7343/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",QUEEN TV
+http://server1.phoenixcreations.online:1935/queentv/queentv/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sky sports f1 
-http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/7342/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",மயூரி 
+http://server1.phoenixcreations.online:1935/mayuritv/mayuritvtenkasi/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",BAMA TV
+http://livematrix.in:80/bamahd/bamahd.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",VAAHINI TV
+https://5c75277727cd1.streamlock.net/livedemo/livedemo/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",NELLAITIMES TV
+http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
