@@ -1,88 +1,122 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",நமது சங்கமம்
-http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Anu TV
+http://139.99.96.93:1935/anutv/anutv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",வேதா டிவி
-http://conference1.livebox.co.in:80/vedhatvhls/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Tdcto TV
+http://139.99.96.93:1935/applemusic/applemusic/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ATN media
-http://indiamatrix.in:80/atn/atn.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",KRP TV
+http://139.99.96.93:1935/krptv/krptv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",பாமா 
-http://livematrix.in:80/bamahd/bamahd.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Krishna TV
+http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",தி நெல்லை டைம்ஸ்
-http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Durais TV
+http://51.79.158.179:1935/harimedia/duraistv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",K channel
-http://indiamatrix.in:80/kchannel/kchannel.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Hari TV
+http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Smile 
-http://hdserver.7starcloud.com:1935/smile/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Ram TV
+http://51.79.158.179:1935/harimedia/live5/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sun star
-http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",7Star TV
+http://51.79.158.179:1935/live/7star/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Mullai 
-http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sana TV 2
+http://51.79.158.179:1935/live/sanatv2/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",தருண் மூவிஸ்
-http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",MSN TV
+http://51.79.158.179:1935/msntv/live/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",லீப் விஜய்
-http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Thirumalai TV
+http://51.79.158.179:1935/tirumalaitv/stream/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",வசந்த்
-http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Bonus TV
+http://51.79.207.150:1935/bonushd/bonushd/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",S flix 
-http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Kalai isai
+http://51.79.207.150:1935/kalai/kalaiisai/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",VIP
-http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Abinaya HD
+http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",லீ
-http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Apple Digital
+http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",பவானி சங்கமம்
-http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sachin Music
+http://51.79.207.150:1935/sachinmusichd/sachinmusichd/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ஜீ
-http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Singam TV
+http://51.79.207.150:1935/singamtv/singamtv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",தேவதை
-http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SMS TV
+http://51.79.207.150:1935/smstvtsy/smstvtsy/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அசோகா
-http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",TTV
+http://51.79.207.150:1935/ttv/ttv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அபிநயா மியூசிக்
-http://singamcloud.in/purpletv/purpletv/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Hello TV
+http://51.195.220.104:1935/hellotv/hellotv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",சிங்கம்
-http://singamcloud.in/singamtv/singamtv/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Krishna Media
+http://51.195.220.104/krishnamedia/krishnamedia/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",கலை இசை
-http://singamcloud.in/kalai/kalaiisai/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",VVN TV
+http://51.195.220.104/panchayathutv/panchayathutv/mono.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="",M music 
-https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Aarya TV
+http://51.79.158.179:1935/aarya/aaryatv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அத்விகா
-http://bmlive.net:8000/paulveernan/advika/bms.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SS TV
+http://51.79.158.179:1935/live/sstv2/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ஸ்ரீசரவணா
-http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",N TV
+http://51.79.158.179:1935/ntv/live/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ரியோ
-http://stream.singamcloud.in/riotv/riotv/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Prakalya TV
+http://51.79.158.179:1935/pragalya/pragalyatv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",7 hills
-http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",போனஸ்
-http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sana TV
+http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SLS
-http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SD Media
+http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Silver Sat
+http://51.79.158.179:1935/silversat/silversattv/mono.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",JEYAM TV PLUS TAMIL
+http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",JEYAM TV TAMIL COVAI 
+http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Analai Express TV TAMIL
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",MON TAMIL TV
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Marutam tv 
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",7 star tamil tv 
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Jawahar tv
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",RCN TV
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Tirupur voice  TV
+https://murugan.iptelevision.in/hls/tirupurvoice.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Tirupur pragalya tv
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sooriyan TV 
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
