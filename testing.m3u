@@ -2,3 +2,6 @@
 
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",IBC Isai
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Mn tv
+https://mntv.livebox.co.in/musichls/live.m3u8
