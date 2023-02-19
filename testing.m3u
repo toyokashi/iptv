@@ -1,34 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Zee tamil
-https://tv.googledrivelinks.com/play.php?c=Zee_Tamil&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ohnson Durairaj:
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",KALAIGNAR TV
-https://tv.googledrivelinks.com/play.php?c=Kalaignar_TV&q=400&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ராகம்
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",COLORS TAMIL
-https://tv.googledrivelinks.com/play.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",MK TV
-https://tv.googledrivelinks.com/play.php?c=MK_TV&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ஜவஹர்
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",VENDHAR TV
-https://tv.googledrivelinks.com/play.php?c=Vendhar_TV&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",கல்விச்சோலை
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",PEPPERS TV
-https://tv.googledrivelinks.com/play.php?c=Peppers_TV&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SVBC இந்து பக்தி 
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",RAJ TV
-https://tv.googledrivelinks.com/play.php?c=Raj_TV&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Swasthik இந்து பக்தி 
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",CAPTAIN TV
-https://tv.googledrivelinks.com/play.php?c=Captain_tv&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Ibc பக்தி h
+ttps://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8 
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",JAYA MOVIES
-https://tv.googledrivelinks.com/play.php?c=J_Movies&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ibc சிலுவை 
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8 
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",RAJ DIGITAL PLUS
-https://tv.googledrivelinks.com/play.php?c=Raj_Digital_Plus&q=800&e=junk.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",TUNES 6
-https://tv.googledrivelinks.com/play.php?c=Tunes_6&q=800&&e=junk.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",முல்லை
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
