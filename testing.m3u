@@ -1,51 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Durais TV
-http://51.79.158.179:1935/harimedia/duraistv/mono.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Ram TV
-http://51.79.158.179:1935/harimedia/live5/mono.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",7Star TV
-http://51.79.158.179:1935/live/7star/mono.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sana TV 2
-http://51.79.158.179:1935/live/sanatv2/mono.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Zee Tamil 
+http://212.224.84.217:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Anu TV
-http://139.99.96.93:1935/anutv/anutv/mono.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Jaya max
+http://212.224.84.217:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",JEYAM TV PLUS TAMIL
-http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",JEYAM TV TAMIL COVAI 
-http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Analai Express TV TAMIL
-http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",MON TAMIL TV
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",7 star tamil tv 
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Jawahar tv
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rainbow TV
-https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Star Vijay HD
+http://212.224.84.217:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Shalini TV tamil
-https://gvjygr2jloem-hls-live.5centscdn.com:443/shalini/live.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Vijay super
+http://212.224.84.217:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Jaya TV HD
+http://212.224.84.217:2200/R-EX/TAMIL_JAYA_TV_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sun TV HD
+http://212.224.84.217:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sana TV
-http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sun Music HD
+http://212.224.84.217:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
-#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",MSN TV
-http://51.79.158.179:1935/msntv/live/mono.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",KTV HD
+http://212.224.84.217:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
