@@ -1,5 +1,5 @@
 {
-    "addProp": "hide",
+    "addProp": "show",
     "menu": [
         {
             "type": "Malayalam",
@@ -28,10 +28,6 @@
         {
             "type": "News",
             "url": "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
-        },
-        {
-            "type": "Testing",
-            "url": "https://prasanth-snk.github.io/iptv/testing.m3u"
         },
         {
             "type": "Language",
