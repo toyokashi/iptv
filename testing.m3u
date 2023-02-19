@@ -1,84 +1,84 @@
 #EXTM3U
 
-#EXTINF:-1,Gulli avec sous-titres
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Gulli avec sous-titres
 http://178.250.208.141/120/play.m3u8
-#EXTINF:-1,France O avec sous-titres
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France O avec sous-titres
 http://178.250.208.141/121/play.m3u8
-#EXTINF:-1,TF1 Séries Films avec sous-titres
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",TF1 Séries Films avec sous-titres
 http://178.250.208.141/122/play.m3u8
-#EXTINF:-1,SRF 1
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SRF 1
 http://178.250.208.141/128/play.m3u8
-#EXTINF:-1,Rai 1
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai 1
 http://178.250.208.141/130/play.m3u8
-#EXTINF:-1,Rai 2
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai 2
 http://178.250.208.141/131/play.m3u8
-#EXTINF:-1,Rai 3
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai 3
 http://178.250.208.141/132/play.m3u8
-#EXTINF:-1,Rai News
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai News
 http://178.250.208.141/133/play.m3u8
-#EXTINF:-1,SRF 3
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",SRF 3
 http://178.250.208.141/136/play.m3u8
-#EXTINF:-1,RTL Live
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",RTL Live
 http://178.250.208.141/152/play.m3u8
-#EXTINF:-1,Rai Yoyo
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai Yoyo
 http://178.250.208.141/153/play.m3u8
-#EXTINF:-1,Rai Premium
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai Premium
 http://178.250.208.141/154/play.m3u8
-#EXTINF:-1,Rai Storia
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai Storia
 http://178.250.208.141/155/play.m3u8
-#EXTINF:-1,Rai Gulp
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai Gulp
 http://178.250.208.141/156/play.m3u8
-#EXTINF:-1,Rai Movie
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai Movie
 http://178.250.208.141/157/play.m3u8
-#EXTINF:-1,Rai Radio 2
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Rai Radio 2
 http://178.250.208.141/158/play.m3u8
-#EXTINF:-1,i24NEWS
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",i24NEWS
 http://178.250.208.141/161/play.m3u8
-#EXTINF:-1,BFM Business
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",BFM Business
 http://178.250.208.141/166/play.m3u8
-#EXTINF:-1,Al Jazeera
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Al Jazeera
 http://178.250.208.141/168/play.m3u8
-#EXTINF:-1,ZDFinfo
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",ZDFinfo
 http://178.250.208.141/174/play.m3u8
-#EXTINF:-1,TiJi
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",TiJi
 http://178.250.208.141/175/play.m3u8
-#EXTINF:-1,Canal J
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Canal J
 http://178.250.208.141/176/play.m3u8
-#EXTINF:-1,BipTV
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",BipTV
 http://178.250.208.141/200/play.m3u8
-#EXTINF:-1,BFM Grand Littoral
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",BFM Grand Littoral
 http://178.250.208.141/201/play.m3u8
-#EXTINF:-1,France 3
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3
 http://178.250.208.141/209/play.m3u8
-#EXTINF:-1,France 3 Alpes
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Alpes
 http://178.250.208.141/210/play.m3u8
-#EXTINF:-1,France 3 Alsace
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Alsace
 http://178.250.208.141/211/play.m3u8
-#EXTINF:-1,France 3 Aquitaine
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Aquitaine
 http://178.250.208.141/212/play.m3u8
-#EXTINF:-1,France 3 Auvergne
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Auvergne
 http://178.250.208.141/213/play.m3u8
-#EXTINF:-1,France 3 Bretagne
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Bretagne
 http://178.250.208.141/216/play.m3u8
-#EXTINF:-1,France 3 Champagne-Ardenne
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Champagne-Ardenne
 http://178.250.208.141/218/play.m3u8
-#EXTINF:-1,France 3 Côte Azur
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Côte Azur
 http://178.250.208.141/220/play.m3u8
-#EXTINF:-1,France 3 Languedoc
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Languedoc
 http://178.250.208.141/223/play.m3u8
-#EXTINF:-1,France 3 Limousin
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Limousin
 http://178.250.208.141/224/play.m3u8
-#EXTINF:-1,France 3 Lorraine
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Lorraine
 http://178.250.208.141/225/play.m3u8
-#EXTINF:-1,France 3 Midi-Pyrénées
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Midi-Pyrénées
 http://178.250.208.141/226/play.m3u8
-#EXTINF:-1,France 3 Nord Pas-de-Calais
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Nord Pas-de-Calais
 http://178.250.208.141/227/play.m3u8
-#EXTINF:-1,France 3 Picardie
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Picardie
 http://178.250.208.141/230/play.m3u8
-#EXTINF:-1,France 3 Poitou-Charentes
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Poitou-Charentes
 http://178.250.208.141/231/play.m3u8
-#EXTINF:-1,France 3 Provence-Alpes
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Provence-Alpes
 http://178.250.208.141/232/play.m3u8
-#EXTINF:-1,France 3 Rhône-Alpes
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",France 3 Rhône-Alpes
 http://178.250.208.141/233/play.m3u8
