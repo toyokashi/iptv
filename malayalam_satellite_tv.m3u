@@ -6,7 +6,7 @@ http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=?token=
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Surya HD
 http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Surya Movies
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Movies",Surya Movies
 http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Zee Keralam HD
