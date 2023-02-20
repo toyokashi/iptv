@@ -400,3 +400,6 @@ http://server1.phoenixcreations.online:1935/queentv/queentv/playlist.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",Sooriyan TV
 https://media1.radioservers.biz:1936/sooriyantv/sooriyantv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="",MKP Movies
+http://media.7starcloud.com:1935/harimedia/mkpmovie/playlist.m3u8
