@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Surya HD
-http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
-
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Surya
 http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Asianet HD
-http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Asianet
 http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
@@ -16,16 +10,16 @@ http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET-in/index.m3u8?token=?token=CXt
 http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Mazhavil Manorama HD
-http://212.224.84.217:2200/R-EX/MALayalam_MAZHAVIL_MANORAMA_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+http://212.224.84.217:2200/R-EX/MALAYALAM_MAZHAVIL_MANORAMA_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Mazhavil Manorama
-http://212.224.84.217:2200/R-EX/MALayalam_MAZHAVIL_MANORAMA-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+http://212.224.84.217:2200/R-EX/MALAYALAM_MAZHAVIL_MANORAMA-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Zee Keralam
-http://212.224.84.217:2200/R-EX/MALayalam_ZEE_KERALAM-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Zee Keralam HD
-http://212.224.84.217:2200/R-EX/MALayalam_ZEE_KERALAM_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Surya Movies
-http://212.224.84.217:2200/R-EX/MALayalam_SURYA_MOVIES-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
