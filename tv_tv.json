@@ -2,8 +2,12 @@
     "addProps": "hide",
     "menu": [
         {
-            "type": "Malayalam",
+            "type": "Malayalam IPTV",
             "url": "https://prasanth-snk.github.io/iptv/malayalam.m3u"
+        },
+        {
+            "type": "Malayalam Satellite",
+            "url": "https://prasanth-snk.github.io/iptv/malayalam_satellite_tv.m3u"
         },
         {
             "type": "Malayalam News",
